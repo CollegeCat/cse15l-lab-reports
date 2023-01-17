@@ -7,4 +7,4 @@ Once we are there, we need top download the software for the specific operatin s
 
 Then we need to open a terminal using bash, and type in the following command: $ ssh cs15lwi23zz@ieng6.ucsd.edu, but substituting everything before the @ to your corresponding CSE 15L account. Once that command is in, you will need to type in your password (no indication of typing is showed!). If done correctly, something like this should appear: 
 
-![Image](Capture1.PNG)
+![Image](goodSignInCapture.png)
