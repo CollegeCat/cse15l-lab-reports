@@ -54,3 +54,4 @@ In this image, first the HnadleUrl method is called. Inside this method the valu
 
 In this image, the same scenario as in the first picture runs, with the difference that there is already a string stored in the master String, and the new one just gets added, with `\n` so that it goes in the next line when printed.
 
+# Part 3
