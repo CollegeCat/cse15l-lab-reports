@@ -1,4 +1,4 @@
-##CSE 15 LAB 2
+## CSE 15 LAB 2
 
 Here is the code for StringServer
 
