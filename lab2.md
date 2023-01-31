@@ -55,3 +55,5 @@ In this image, first the HnadleUrl method is called. Inside this method the valu
 In this image, the same scenario as in the first picture runs, with the difference that there is already a string stored in the master String, and the new one just gets added, with `\n` so that it goes in the next line when printed.
 
 ## Part 3
+
+Soomething that I learned that is definitely interesting is everything about URLs, web servers, and everything from week 2's lab. I feel like even thouhg it is intro information into these topics, it really demonstrates the capabilities that we have with java for group projects and collaboration. I definitely dont know most of the content we learn in this class, but this one is for sure the most interesting by far.
