@@ -48,7 +48,7 @@ By making the first input in the URL we get:
 
 ![Image](Add_message_1.png)
 
-In this image, first the HnadleUrl method is called. Inside this method the value of str is just an empty string "" at the start of the method. Then, the conditional statements begin to run, the URL is run and gets inputted into the method. As the first one is false and is not run, the next else statement does become true. Then the nested if loops also run, checking that the URL does have "/add-message" in it. Then it splits the query that follows after ? and splits it at the = sign. The values of the split string are stores in parameters[], an array. It reads "s" in parameters[0] and the last if loop runs, adding the string after the =, which is stored in parameters[1], to the master string str. The string is then printed at the webpage as shown in the image.
+In this image, first the HnadleUrl method is called. Inside this method the value of str is just an empty string `""` at the start of the method. Then, the conditional statements begin to run, the URL is extracted and put into a string by the method getURL and gets inputted into the method. As the first one is false and is not run, the next else statement does become true. Then the nested if loops also run, checking that the URL does have `"/add-message"` in it. Then it splits the query that follows after `?` and splits it at the `=` sign. The values of the split string are stores in `parameters[]`, an array. It reads "s" in `parameters[0]` and the last if loop runs, adding the string after the `=`, which is stored in `parameters[1]`, to the master string `str`. The string is then printed at the webpage as shown in the image.
 
 ![Image](Add_message_2.png)
 
