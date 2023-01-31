@@ -12,3 +12,5 @@ Then we need to open a terminal using bash, and type in the following command: `
 We can now try some commands on the remote computer that we have logged into. Here are a couple of examples:
 
 ![Image](commandsInVS.png)
+
+A couple of interesting things about these commands is in their functionality. As we can see, `pwd` produces an output, as it stands for **"print current directory"** being the current direcotry that we are working in. `cd` stands for **"change direcotry"**, and when putting the `~` in front makes it move backwards in the directory. Using these commands we can effectively navigate through the directories as the need to move arises.
