@@ -1,6 +1,6 @@
 # CSE 15 LAB 1
 
-In order to log into your CSE 15 account, we will need to first download VS CODE. In orde to do that we go to the following link : https://code.visualstudio.com/download
+In order to log into your CSE 15 account, we will need to first download VS CODE. In orde to do that we go to the following link : [](https://code.visualstudio.com/download)
 Once we are there, we need top download the software for the specific operatin system we have, and follow through the installation. If done correctly, we open it up and should see something like this:
 
 ![Image](Capture.PNG)
