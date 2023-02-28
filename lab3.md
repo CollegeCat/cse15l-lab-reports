@@ -94,7 +94,7 @@ First, we make a search, with alternating upper-case and lower-case letters:
 As we can see, nothing is output, that is because grep is case sensitive, and there is no instance of the word that is written exactly like that.
 Now making use of `-i` to make it case insensitive:
 
-![Image](apple-grep.yesi.png)
+![Image](apple-grep-yesi.png)
 
 And now the output is as expected!
 
