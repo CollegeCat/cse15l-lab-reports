@@ -35,7 +35,7 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 In this example, we will of course assume that the address of the repository will be named the same every time, and that the tests will compile.
 Since we are writing a script that is very specific to the competition, we do not need to check for outputs on most lines (unlike the grader).
 
-`set -x` is an important component, since this will make the script output everything that is currently executing, almost as if we were running the tests ourselves.
+`set -x` *is an important component, since this will make the script output everything that is currently executing, almost as if we were running the tests ourselves.*
 
 After we get the output, we can see what tests failed from the output, and manually fix them. (Sadly my knowledge is not enough to make an sh file that runs nano and fixes the bugs).
 
