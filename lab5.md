@@ -4,15 +4,15 @@ For this last lab, I will choose the topic of the task we did for lab 4 report, 
 
 In the competition we had to follow these steps:
 
-Setup Delete any existing forks of the repository you have on your account
-Setup Fork the repository
-The real deal Start the timer!
-Log into ieng6
-Clone your fork of the repository from your Github account
-Run the tests, demonstrating that they fail
-Edit the code file to fix the failing test
-Run the tests, demonstrating that they now succeed
-Commit and push the resulting change to your Github account (you can pick any commit message!)
+1. Setup Delete any existing forks of the repository you have on your account
+2. Setup Fork the repository
+3. The real deal Start the timer!
+4. Log into ieng6
+5. Clone your fork of the repository from your Github account
+6. Run the tests, demonstrating that they fail
+7. Edit the code file to fix the failing test
+8. Run the tests, demonstrating that they now succeed
+9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
 Inside of the week 7 lab, we are provided some tips on how to speed up the process to complete these steps. 
 Like learning some shortcuts on the keyboard, copying and pasting, etc. But we can also save oursleves a lot more time if we were to say,
