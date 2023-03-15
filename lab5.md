@@ -51,3 +51,4 @@ git push
 
 And this way, we are able to complete the tournament task with 2 executable scripts. As I am sure there are probably more efficient ways to run this, such as running and doing everything on a single executbale, I will just say this is still more efficient than typing everything yourself. Also through the use of these scripts, there will be no need to use keyboard schortcuts (maybe 2 times to pull up the line that executes the files).
 
+Out of all of the labs, this was honestly my favorite, it felt like a skill demo but way more rushed, and since it is not for a grade, it was really fun. Thinking about it, I remember the winner of my lab tournament, which was in my group, breaking the record time for the tasks. Im pretty sure he did it so fast that I could not even match his speed with my pseudo-scripts.
